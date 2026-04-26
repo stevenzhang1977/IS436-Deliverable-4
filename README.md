@@ -20,6 +20,7 @@ In the case of the restaurant, this architecture allows the restaurant to use it
 Client Side
 - Web browser on tablets, such as Google Chrome or Safari
 - Mobile browser for customers using the waitlist web app
+
 Server Side
 - Cloud hosting platform
 - Web server
