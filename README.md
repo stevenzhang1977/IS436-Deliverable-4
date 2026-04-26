@@ -17,10 +17,10 @@ In the case of the restaurant, this architecture allows the restaurant to use it
 - Stable Wi-Fi router/network connection inside the restaurant
 
 ##### Software Specification
-####### Client Side
+Client Side
 - Web browser on tablets, such as Google Chrome or Safari
 - Mobile browser for customers using the waitlist web app
-####### Server Side
+Server Side
 - Cloud hosting platform
 - Web server
 - Application server
